@@ -8,3 +8,6 @@ where:
 
     -XXX corresponds to the day of the calendar of advent.
     -YYY corresponds to the number of the question(if more than one is given)
+
+
+Also, the data of any given day is stored as : dayXXX_DATA.in, where XXX corresponds to the day of the calendar.
